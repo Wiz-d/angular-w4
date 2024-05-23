@@ -1,0 +1,7 @@
+<div class="wrapper">
+@for (trafLightObject of trafficLightCollection; track $index){
+<app-traffic-light 
+[trafLightObj]="trafLightObject"
+class="item"></app-traffic-light>
+}
+</div>

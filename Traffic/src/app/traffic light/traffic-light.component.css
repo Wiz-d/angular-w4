@@ -1,0 +1,48 @@
+.red-light-off {
+    display: flexbox;
+    height: 50px;
+    width: 50px;
+    background-color: #420909;
+    border-radius: 100%;
+    display: inline-block;
+}
+.red-light-on {
+    display: flexbox;
+    height: 50px;
+    width: 50px;
+    background-color: #f01b1b;
+    border-radius: 100%;
+    display: inline-block;
+}
+.yellow-light-off {
+    display: flexbox;
+    height: 50px;
+    width: 50px;
+    background-color: #555707;
+    border-radius: 100%;
+    display: inline-block;
+}
+.yellow-light-on {
+    display: flexbox;
+    height: 50px;
+    width: 50px;
+    background-color: #eff714;
+    border-radius: 100%;
+    display: inline-block;
+}
+.green-light-off {
+    display: flexbox;
+    height: 50px;
+    width: 50px;
+    background-color: #174107;
+    border-radius: 100%;
+    display: inline-block;
+}
+.green-light-on {
+    display: flexbox;
+    height: 50px;
+    width: 50px;
+    background-color: #4de90f;
+    border-radius: 100%;
+    display: inline-block;
+}
